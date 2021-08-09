@@ -1,0 +1,19 @@
+* {
+    font-family: "Adobe Arabic", serif;
+    font-size: 110%;
+    background: beige;
+}
+
+.body {
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.response {
+    padding: 100px;
+    background: azure;
+
+}
